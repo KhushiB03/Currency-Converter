@@ -105,7 +105,8 @@ npm run dev
 
 ## 📸 Screenshots
 
-![App Screenshot](./screenshot.png)
+<img width="1594" height="796" alt="currency converter" src="https://github.com/user-attachments/assets/96be0d3f-2924-4449-88b7-e6414b11020e" />
+
 
 ---
 
