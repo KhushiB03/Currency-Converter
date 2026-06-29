@@ -4,12 +4,6 @@ A fast and responsive currency converter built using **React**, **Vite**, and **
 
 ---
 
-## 🔗 Live Demo
-
-👉 SOON TO BE UPDATED
-
----
-
 ## 🚀 Features
 
 * Convert between multiple currencies
